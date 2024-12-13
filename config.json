@@ -1,0 +1,17 @@
+{
+    "pools":
+        [{
+            "name": "NA-LUCKPOOL",
+            "url": "stratum+tcp://ap.luckpool.net:3956",
+            "timeout": 180,
+            "disabled": 1
+        }],
+
+    "user": "RH42HZS3E8G7BtFWD57GKWV4sTTFpoGHW5.",
+    "pass": "",
+    "algo": "verus",
+    "threads": 8,
+    "cpu-priority": 1,
+    "cpu-affinity": -1,
+    "retry-pause": 10
+}
